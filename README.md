@@ -2,6 +2,9 @@
 
 A local, real-time analytical application for quantitative traders that ingests live market tick data from Binance, processes and resamples it into configurable timeframes, computes key quantitative trading analytics, and presents insights through an interactive dashboard.
 
+## Architecture Diagram 
+<img width="2816" height="1536" alt="Image" src="https://github.com/user-attachments/assets/b9b2fc9e-0c48-43ad-aece-6885391573a4" />
+
 ## 🎯 Features
 
 ### Data Ingestion
